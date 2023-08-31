@@ -45,6 +45,8 @@ mrs-uav-shell-additions:
 # other dependencies
 python3-jinja2:
   ubuntu: [python3-jinja2]
+python-is-python3:
+  ubuntu: [python-is-python3]
 tmuxinator:
   ubuntu: [tmuxinator]
 
