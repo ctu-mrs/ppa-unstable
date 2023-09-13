@@ -37,6 +37,8 @@ mrs_gazebo_common_resources:
   ubuntu: [ros-noetic-mrs-gazebo-common-resources]
 ouster_ros:
   ubuntu: [ros-noetic-ouster-ros]
+mrs_pcl_tools:
+  ubuntu: [ros-noetic-mrs-pcl-tools]
 
 # non-ROS dependencies managed by MRS
 mrs-geographiclib-datasets:
