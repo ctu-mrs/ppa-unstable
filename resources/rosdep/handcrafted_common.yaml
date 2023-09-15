@@ -43,6 +43,10 @@ mrs_octomap_tools:
   ubuntu: [ros-noetic-mrs-octomap-tools]
 mrs_subt_planning_lib:
   ubuntu: [ros-noetic-mrs-subt-planning-lib]
+mrs_octomap_server:
+  ubuntu: [ros-noetic-mrs-octomap-server]
+mrs_octomap_planner:
+  ubuntu: [ros-noetic-mrs-octomap-planner]
 
 # non-ROS dependencies managed by MRS
 mrs-geographiclib-datasets:
