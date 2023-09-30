@@ -14,6 +14,10 @@ mavlink_sitl_gazebo:
 ouster_ros:
   ubuntu: [ros-noetic-ouster-ros]
 
+# temp
+mrs_modules_msgs:
+  ubuntu: [ros-noetic-mrs-modules-msgs]
+
 # non-ROS dependencies managed by MRS
 mrs-geographiclib-datasets:
   ubuntu: [mrs-geographiclib-datasets]
