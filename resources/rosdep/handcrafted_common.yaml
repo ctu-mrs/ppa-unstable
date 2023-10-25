@@ -21,8 +21,16 @@ mrs_aloam_estimator_plugin:
 # todo delete when buildfarm updated
 mrs_open_vins_estimator_plugin:
   ubuntu: [ros-noetic-mrs-open-vins-estimator-plugin]
-open_vins:
-  ubuntu: [ros-noetic-open-vins]
+ov_core:
+  ubuntu: [ros-noetic-ov-core]
+ov_eval:
+  ubuntu: [ros-noetic-ov-eval]
+ov_init:
+  ubuntu: [ros-noetic-ov-init]
+ov_msckf:
+  ubuntu: [ros-noetic-ov-msckf]
+ov_repub:
+  ubuntu: [ros-noetic-ov-repub]
 vins_republish:
   ubuntu: [ros-noetic-vins-republish]
 
