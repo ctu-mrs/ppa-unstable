@@ -22,9 +22,9 @@ mrs_aloam_estimator_plugin:
 mrs_open_vins_estimator_plugin:
   ubuntu: [ros-noetic-mrs-open-vins-estimator-plugin]
 open_vins:
-  ubuntu: [ros-noetic-mrs-open-vins]
+  ubuntu: [ros-noetic-open-vins]
 vins_republish:
-  ubuntu: [ros-noetic-mrs-vins-republish]
+  ubuntu: [ros-noetic-vins-republish]
 
 # other dependencies
 python3-jinja2:
