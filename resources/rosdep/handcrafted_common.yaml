@@ -15,6 +15,16 @@ mrs-uav-shell-additions:
   ubuntu: [mrs-uav-shell-additions]
 coppelia-sim-edu:
   ubuntu: [coppelia-sim-edu]
+# todo delete when buildfarm updated
+mrs_aloam_estimator_plugin:
+  ubuntu: [ros-noetic-mrs-aloam-estimator-plugin]
+# todo delete when buildfarm updated
+mrs_open_vins_estimator_plugin:
+  ubuntu: [ros-noetic-mrs-open-vins-estimator-plugin]
+open_vins:
+  ubuntu: [ros-noetic-mrs-open-vins]
+vins_republish:
+  ubuntu: [ros-noetic-mrs-vins-republish]
 
 # other dependencies
 python3-jinja2:
