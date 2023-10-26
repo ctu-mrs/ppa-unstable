@@ -31,8 +31,8 @@ ov_msckf:
   ubuntu: [ros-noetic-ov-msckf]
 ov_repub:
   ubuntu: [ros-noetic-ov-repub]
-vins_republish:
-  ubuntu: [ros-noetic-vins-republish]
+mrs_vins_republisher:
+  ubuntu: [ros-noetic-mrs-vins-republisher]
 
 # other dependencies
 python3-jinja2:
