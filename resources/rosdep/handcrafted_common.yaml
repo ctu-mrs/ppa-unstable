@@ -31,6 +31,10 @@ ov_init:
   ubuntu: [ros-noetic-ov-init]
 ov_msckf:
   ubuntu: [ros-noetic-ov-msckf]
+mrs_hector_estimator_plugin:
+  ubuntu: [ros-noetic-mrs-hector-estimator-plugin]
+hector_mapping:
+  ubuntu: [ros-noetic-hector-mapping]
 
 # other dependencies
 python3-jinja2:
