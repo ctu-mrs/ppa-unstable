@@ -23,15 +23,3 @@ python-is-python3:
   ubuntu: [python-is-python3]
 tmuxinator:
   ubuntu: [tmuxinator]
-
-# temp
-mrs_tf_reconfigure:
-  ubuntu: [ros-noetic-mrs-tf-reconfigure]
-mrs_tf_connector:
-  ubuntu: [ros-noetic-mrs-tf-connector]
-mrs_tf_estimator:
-  ubuntu: [ros-noetic-mrs-tf-estimator]
-mrs_multireconfigure:
-  ubuntu: [ros-noetic-mrs-multireconfigure]
-mrs_euler_counter_example:
-  ubuntu: [ros-noetic-mrs-euler-counter-example]
