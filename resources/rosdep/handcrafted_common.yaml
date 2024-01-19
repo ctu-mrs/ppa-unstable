@@ -25,3 +25,6 @@ tmuxinator:
   ubuntu: [tmuxinator]
 moreutils:
   ubuntu: [moreutils]
+
+uvdar_core:
+  ubuntu: [ros-noetic-uvdar-core]
