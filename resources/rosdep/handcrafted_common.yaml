@@ -13,8 +13,6 @@ mrs-geographiclib-datasets:
   ubuntu: [mrs-geographiclib-datasets]
 mrs-uav-shell-additions:
   ubuntu: [mrs-uav-shell-additions]
-coppelia-sim-edu:
-  ubuntu: [coppelia-sim-edu]
 
 # other dependencies
 python3-jinja2:
@@ -25,6 +23,8 @@ tmuxinator:
   ubuntu: [tmuxinator]
 moreutils:
   ubuntu: [moreutils]
+libgbm-dev:
+  ubuntu: [libgbm-dev]
 
 uvdar_core:
   ubuntu: [ros-noetic-uvdar-core]
