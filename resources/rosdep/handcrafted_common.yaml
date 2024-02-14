@@ -28,3 +28,9 @@ libgbm-dev:
 
 uvdar_core:
   ubuntu: [ros-noetic-uvdar-core]
+
+# todo delete when added to buildfarm
+mrs_liosam_estimator_plugin:
+  ubuntu: [ros-noetic-mrs-liosam-estimator-plugin]
+liosam:
+  ubuntu: [ros-noetic-liosam]
