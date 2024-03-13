@@ -28,3 +28,6 @@ libgbm-dev:
 
 uvdar_core:
   ubuntu: [ros-noetic-uvdar-core]
+
+gdb:
+  ubuntu: [gdb]
