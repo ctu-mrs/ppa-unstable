@@ -175,65 +175,8 @@ mrs_vins_imu_filter:
 mrs_vins_republisher:
     ubuntu: [ros-noetic-mrs-vins-republisher]
   
-libnabo:
-    ubuntu: [ros-noetic-libnabo]
-  
-libpointmatcher:
-    ubuntu: [ros-noetic-libpointmatcher]
-  
-mrs_mins_estimator_plugin:
-    ubuntu: [ros-noetic-mrs-mins-estimator-plugin]
-  
-mrs_open_vins_estimator_plugin:
-    ubuntu: [ros-noetic-mrs-open-vins-estimator-plugin]
-  
-mrs_vins_imu_filter:
-    ubuntu: [ros-noetic-mrs-vins-imu-filter]
-  
-mrs_vins_republisher:
-    ubuntu: [ros-noetic-mrs-vins-republisher]
-  
-ov_core:
-    ubuntu: [ros-noetic-ov-core]
-  
-mins:
-    ubuntu: [ros-noetic-mins]
-  
 mrs_mins_core:
     ubuntu: [ros-noetic-mrs-mins-core]
-  
-ov_eval:
-    ubuntu: [ros-noetic-ov-eval]
-  
-ov_init:
-    ubuntu: [ros-noetic-ov-init]
-  
-ov_msckf:
-    ubuntu: [ros-noetic-ov-msckf]
-  
-mrs_open_vins_core:
-    ubuntu: [ros-noetic-mrs-open-vins-core]
-  
-mrs_open_vins_estimator_plugin:
-    ubuntu: [ros-noetic-mrs-open-vins-estimator-plugin]
-  
-mrs_vins_imu_filter:
-    ubuntu: [ros-noetic-mrs-vins-imu-filter]
-  
-mrs_vins_republisher:
-    ubuntu: [ros-noetic-mrs-vins-republisher]
-  
-ov_core:
-    ubuntu: [ros-noetic-ov-core]
-  
-ov_eval:
-    ubuntu: [ros-noetic-ov-eval]
-  
-ov_init:
-    ubuntu: [ros-noetic-ov-init]
-  
-ov_msckf:
-    ubuntu: [ros-noetic-ov-msckf]
   
 mrs_open_vins_core:
     ubuntu: [ros-noetic-mrs-open-vins-core]
