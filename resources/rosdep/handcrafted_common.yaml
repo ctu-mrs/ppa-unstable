@@ -14,7 +14,7 @@ mrs-geographiclib-datasets:
 mrs-uav-shell-additions:
   ubuntu: [mrs-uav-shell-additions]
 
-libcamera-ros:
+libcamera_ros:
   ubuntu: [ros-noetic-libcamera-ros]
 
 # other dependencies
