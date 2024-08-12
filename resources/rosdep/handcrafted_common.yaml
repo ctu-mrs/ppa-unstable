@@ -8,14 +8,19 @@
 px4:
   ubuntu: [ros-noetic-px4]
 
+# libcamera_ros is build using a custom script outside of the bloom pipeline
+libcamera_ros:
+  ubuntu: [ros-noetic-libcamera-ros]
+
 # non-ROS dependencies managed by MRS
 mrs-geographiclib-datasets:
   ubuntu: [mrs-geographiclib-datasets]
 mrs-uav-shell-additions:
   ubuntu: [mrs-uav-shell-additions]
 
-libcamera_ros:
-  ubuntu: [ros-noetic-libcamera-ros]
+# TODO delete when part of the MRS pipeline
+mrs_robofly_core:
+  ubuntu: [ros-noetic-mrs-robofly-core]
 
 # other dependencies
 python3-jinja2:
