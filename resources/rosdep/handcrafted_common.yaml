@@ -22,6 +22,12 @@ mrs-uav-shell-additions:
 mrs_robofly_core:
   ubuntu: [ros-noetic-mrs-robofly-core]
 
+# TODO delete when part of the MRS pipeline (VINS-Mono)
+camera_model:
+  ubuntu: [ros-noetic-camera-model]
+mrs-vins-mono-estimator-plugin:
+  ubuntu: [ros-noetic-mrs-vins-mono-estimator-plugin]
+
 # other dependencies
 python3-jinja2:
   ubuntu: [python3-jinja2]
