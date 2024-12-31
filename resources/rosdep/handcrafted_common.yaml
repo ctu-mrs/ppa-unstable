@@ -23,10 +23,18 @@ mrs_robofly_core:
   ubuntu: [ros-noetic-mrs-robofly-core]
 
 # TODO delete when part of the MRS pipeline (VINS-Mono)
-camera_model:
-  ubuntu: [ros-noetic-camera-model]
-mrs-vins-mono-estimator-plugin:
+vins_mono_camera_model:
+  ubuntu: [ros-noetic-vins-mono-camera-model]
+vins_mono_feature_tracker:
+  ubuntu: [ros-noetic-vins-mono-feature-tracker]
+vins_mono_pose_graph:
+  ubuntu: [ros-noetic-vins-mono-pose-graph]
+vins_mono_vins_estimator:
+  ubuntu: [ros-noetic-vins-mono-vins-estimator]
+mrs_vins_mono_estimator_plugin:
   ubuntu: [ros-noetic-mrs-vins-mono-estimator-plugin]
+mrs_vins_mono_core:
+  ubuntu: [ros-noetic-mrs-vins-mono-core]
 
 # other dependencies
 python3-jinja2:
