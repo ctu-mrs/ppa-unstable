@@ -17,6 +17,6 @@ sudo curl -s --compressed -o /etc/apt/preferences.d/ctu-mrs-unstable-preferences
 sudo curl -s --compressed -o /etc/ros/rosdep/sources.list.d/ctu-mrs-unstable.list "https://ctu-mrs.github.io/ppa-unstable/ctu-mrs-$ARCH.list"
 sudo apt-get -y update
 
-rosdep update
+rosdep update --include-eol-distros
 
 echo "$0: Finished adding MRS Unstable PPA repository"
