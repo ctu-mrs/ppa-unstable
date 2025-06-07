@@ -43,9 +43,6 @@ mrs_octomap_tools:
 uvdar_core:
     ubuntu: [ros-noetic-uvdar-core]
   
-mrs_tf_estimator:
-    ubuntu: [ros-noetic-mrs-tf-estimator]
-  
 mrs_camera_republisher:
     ubuntu: [ros-noetic-mrs-camera-republisher]
   
@@ -63,6 +60,9 @@ mrs_sensor_info:
   
 mrs_tf_connector:
     ubuntu: [ros-noetic-mrs-tf-connector]
+  
+mrs_tf_estimator:
+    ubuntu: [ros-noetic-mrs-tf-estimator]
   
 mrs_tf_mirror:
     ubuntu: [ros-noetic-mrs-tf-mirror]
@@ -115,11 +115,11 @@ mrs_uav_managers:
 mrs_uav_gazebo_testing:
     ubuntu: [ros-noetic-mrs-uav-gazebo-testing]
   
-mrs_robofly_example:
-    ubuntu: [ros-noetic-mrs-robofly-example]
-  
 mrs_robofly_core:
     ubuntu: [ros-noetic-mrs-robofly-core]
+  
+mrs_robofly_example:
+    ubuntu: [ros-noetic-mrs-robofly-example]
   
 mrs_octomap_server:
     ubuntu: [ros-noetic-mrs-octomap-server]
@@ -202,11 +202,11 @@ mrs_mins_core:
 mrs_uav_core:
     ubuntu: [ros-noetic-mrs-uav-core]
   
-mrs_uav_system:
-    ubuntu: [ros-noetic-mrs-uav-system]
-  
 mrs_uav_system_full:
     ubuntu: [ros-noetic-mrs-uav-system-full]
+  
+mrs_uav_system:
+    ubuntu: [ros-noetic-mrs-uav-system]
   
 uvdar_gazebo_plugin:
     ubuntu: [ros-noetic-uvdar-gazebo-plugin]
