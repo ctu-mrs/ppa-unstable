@@ -1,0 +1,53 @@
+# this file defines the list of APT dependencies for ROS packages
+#
+# ros_package_dependency:
+#   ubuntu: [apt dependencies]
+#
+
+# px4 is build using a custom script outside of the bloom pipeline
+px4:
+  ubuntu: [ros-noetic-px4]
+
+# libcamera_ros is build using a custom script outside of the bloom pipeline
+libcamera_ros:
+  ubuntu: [ros-noetic-libcamera-ros]
+
+# non-ROS dependencies managed by MRS
+mrs-geographiclib-datasets:
+  ubuntu: [mrs-geographiclib-datasets]
+mrs-uav-shell-additions:
+  ubuntu: [mrs-uav-shell-additions]
+
+# TODO delete when part of the MRS pipeline
+mrs_robofly_core:
+  ubuntu: [ros-noetic-mrs-robofly-core]
+
+# TODO delete when part of the MRS pipeline (VINS-Mono)
+vins_mono_camera_model:
+  ubuntu: [ros-noetic-vins-mono-camera-model]
+vins_mono_feature_tracker:
+  ubuntu: [ros-noetic-vins-mono-feature-tracker]
+vins_mono_pose_graph:
+  ubuntu: [ros-noetic-vins-mono-pose-graph]
+vins_mono_vins_estimator:
+  ubuntu: [ros-noetic-vins-mono-vins-estimator]
+mrs_vins_mono_estimator_plugin:
+  ubuntu: [ros-noetic-mrs-vins-mono-estimator-plugin]
+mrs_vins_mono_core:
+  ubuntu: [ros-noetic-mrs-vins-mono-core]
+
+# other dependencies
+python3-jinja2:
+  ubuntu: [python3-jinja2]
+python-is-python3:
+  ubuntu: [python-is-python3]
+tmuxinator:
+  ubuntu: [tmuxinator]
+moreutils:
+  ubuntu: [moreutils]
+libgbm-dev:
+  ubuntu: [libgbm-dev]
+aptitude:
+  ubuntu: [aptitude]
+gdb:
+  ubuntu: [gdb]
