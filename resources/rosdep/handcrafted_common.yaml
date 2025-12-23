@@ -36,6 +36,12 @@ mrs_vins_mono_estimator_plugin:
 mrs_vins_mono_core:
   ubuntu: [ros-noetic-mrs-vins-mono-core]
 
+mrs_robot_diagnostics:
+  ubuntu: [ros-noetic-mrs-robot-diagnostics]
+
+mrs_errorgraph:
+  ubuntu: [ros-noetic-mrs-errorgraph]
+
 # other dependencies
 python3-jinja2:
   ubuntu: [python3-jinja2]
