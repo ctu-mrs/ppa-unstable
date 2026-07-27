@@ -7,6 +7,6 @@ sudo rm /etc/apt/preferences.d/ctu-mrs-unstable-preferences
 sudo rm /etc/ros/rosdep/sources.list.d/ctu-mrs-unstable.list
 
 sudo apt-get -o Acquire::Retries="4" update
-rosdep update --include-eol-distros
+rosdep --include-eol-distros --rosdistro=noetic update
 
 echo "$0: Finished removing MRS Unstable PPA repository"
