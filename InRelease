@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Tue, 15 Sep 2026 22:58:28 +0000
+Label: unstable
+Origin: ctu-mrs
+MD5Sum:
+ 0dd5aed09b46fa815d8216ba34c80aee           303423 Packages
+ 9533af3b2729158fb254992e36ae2032            58030 Packages.gz
+ 1da4eb95bc23b5ffc5609b1232ef4d6a               70 Release
+SHA1:
+ ef36b43d8c4e8bf0af310968c0789a54e8fae670           303423 Packages
+ fecb9365c8186ca8741065ddb3a4c7c534b1f227            58030 Packages.gz
+ a0372034d2d767c15023e1d6e4da724f681109ff               70 Release
+SHA256:
+ 6786dddff740ef4797451c10354213717db6440d09bd49a54daaece6e69acb8b           303423 Packages
+ ff6e7a3098b2d77fe4422c9fa94cfbd392c07bfed5288993c78a48dcd4bfe390            58030 Packages.gz
+ 7ee67f626e53a903993fc6a16d1f53518ba3a2dfa5758dc99d587f885629d5ce               70 Release
+SHA512:
+ b061e6e144816a83704856e4d2b20cd637c5a1be891510d38f025b509ff2b7880879cfc59ccd212d0d37fdb47698e4fc59f7d0ff886688f27332607507d9e0a2           303423 Packages
+ 160bdf19b1e43b0bce1045a035751a1514ad796424e3520a9938f312575de2044ba85453c252a368cd38e03c7bbcd6a35c9ad16fa7e97004665484da31bfca7c            58030 Packages.gz
+ 32164f2a2913fa970ef559f76a7da7309dc04dec0c5cc48f0ca2e8844cafabd3c9aeea9c8ff57a52663aea36eab4f9fd0b0d5fb2a317e9dcdda413d83f3afef8               70 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJLBAEBCgA1FiEEb03deYxGy/GR9vy/sp02ABwZjREFAmqpzZQXHHRvbWFzLmJh
+Y2FAZmVsLmN2dXQuY3oACgkQsp02ABwZjRG+HQ/8DDKMMOUFdPA3JldTm8MzRQFt
+r2NIeKICKd9gRz/xpPcaPEqaYEG4bCzS/R5PdRmPxZ+HunaMFK5Kt1RK7tXXgzKO
+HnS2Zuh1Zv2a9RJ4wCiu0hNe6dtpoq1adodM6yeUAxN7soCv43y1khagpadMvNei
+L8l+zckjsLk56/3rUw4HGwTYP5ghMMEPnRk359bewhL319/zpwkezavRStjaC50F
+azaGX7sAI7jFnRYtceGrjmToqeNNGZI+ot+40p1r3wtHdKcZeLEYOIv7f1nauQN6
+UiL6Iouw+nC2Y7PviKK1dNfl+eq9JvTJAuINKCx1n7odAroaKgOlu7Y60ezhkVWB
+2LYzbrKOoXYzvjTtNaTPDXrDVQBrLSIuy/7Ow+x3EFs7vFeqpKp9KS206tGCuf4h
+cZVnsL/9GyCX0hslN3B9Q8ZT0Y30tuPQruawRVUbGATB27mWBZ6Mh3hpSeFXjkfT
+teQK7qB3Bl+UJ8xnR9uVugsWkM27A5+NPEHQzEyja3jK77yYDET5U8Bi5Jd//Dnf
+DKw/r4BqsVZ6FeRMYJKCktOO0zAC/3Wz5dTX0ghLdDcADMlFg9AUscsX/oIuaeRf
+ZroLigCRdWe0L2kmbCtmlmanc5HTQmL+bOvAJIvkmjknaGk+QtJ4F6/ABK9+lI8b
+gcLtHBkR3ysvcaUtPLs=
+=5vGa
+-----END PGP SIGNATURE-----
