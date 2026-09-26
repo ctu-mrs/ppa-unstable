@@ -1,0 +1,4 @@
+yaml https://ctu-mrs.github.io/ppa-unstable/generated_mrs_armhf.yaml
+yaml https://ctu-mrs.github.io/ppa-unstable/generated_thirdparty_armhf.yaml
+yaml https://ctu-mrs.github.io/ppa-unstable/handcrafted_armhf.yaml
+yaml https://ctu-mrs.github.io/ppa-unstable/handcrafted_common.yaml
