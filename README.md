@@ -1,4 +1,4 @@
-# PPA Unstable
+# PPA Unstable · [Index](https://ctu-mrs.github.io/ppa-unstable/)
 
 Personal Package Archive (PPA) for unstable MRS deb packages.
 
