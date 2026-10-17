@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Sat, 17 Oct 2026 15:31:22 +0000
+Label: unstable
+Origin: ctu-mrs
+MD5Sum:
+ 0bf0976ca1e9a853a5a9f45162cefcda           304577 Packages
+ 6be32d081b4e4d3bb1879920bd562e3c            58317 Packages.gz
+ 56fc60dc902fa92e6e101010265992cb               70 Release
+SHA1:
+ d0ccc7fc238730026d139be0f96b687c4753a7a3           304577 Packages
+ 11e6eac75627bc957be17a76959a32e8de0a71d5            58317 Packages.gz
+ 1934236a1930dcf9d507761a6c55128f0b60ac49               70 Release
+SHA256:
+ 856aedc7eb7194d4eb9fce110942b45e2aea6c053acb0d8dd7ff737a468507c3           304577 Packages
+ 601fb91164869efd4ab69e69bd35bc55d9cd2a60752c8977f17392f05424d727            58317 Packages.gz
+ 6d29d861f75e9ce504d4acffb08b3bc291b8d3f622e967b2a210795071119222               70 Release
+SHA512:
+ 5d570da95fb4f492c23980b99ad794941e82d7882cab824cd2efdfe953b56775334e0c0ebf46703611355a48b1127dcaacbfce9bbddd154776ba3270894fddf2           304577 Packages
+ d7cb9a732ad7a76ea3bbf31ad57960b3a28e887e109899e47eaeef9a0df82ecfe3c2c50b7246a40022f4a3cd107c60777ed925b273341c1f407e5f0965fd2b41            58317 Packages.gz
+ a66e6b94c980888ac99a09db74ecfc5cc737d1988486e41a9e23ed63c4e44862fbf2580c731072b6991dced0a243f7397f81d0ec6ed972e16b5860015d5e58f7               70 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJLBAEBCgA1FiEEb03deYxGy/GR9vy/sp02ABwZjREFAmrTlMoXHHRvbWFzLmJh
+Y2FAZmVsLmN2dXQuY3oACgkQsp02ABwZjRHjag//VbA4WtLACdZovhILiHbMplSU
+fja/Nn5dX8kBdgyNsCnR/+l6Np9rxz+iddre9kB8ex5z8c6aJek8VUAoGg2bT1V4
+8+YlIqsRjRW9NGNFuF2uFkrr/ptl+7ajxnzeRq70e4uhcUYL0Pv9CSg6WnAVbTK4
+lMW+oYQqVqKuyU8UetWvodGEGBmtd9LEEO877m3xrfgbCBiwel2OGPr/7J3OhgRl
+UkaQBYuwy3cRiqi69xcsNQzh/JkyByCSz6aUiiY5TpRGAc1KbRUhiMVjUSm9jkvg
+8IxoVIkbZfU8usF2YSKCp/qF5tWjVeyzIvFbsPNBtbsKHuDEz+HOzO+4wGfmlhTF
+V+d1W9ZrLRmZSfgwp7aRYqN8DmQkMUwovOMNSwKptiGWVhpPXbABz/5bGP76qPro
+CElNSy8z5GTwf1taCfq/c4NiQuA92DtF6qNxQzfdfQ8h/w+p6WKL/2fJqq96kWw/
+MJW19FQAN3fUqtza5vvZ2H2500J3BR/1ppLRsJe6G7Au1DGl6Ha4x7p97pA39awM
+3yYwjhTlmAtnFhUgfoaYibyM/QAFHkUhb4UvFzoeLeVN3PzoXQslAUGjxlx6Wk5L
++/kGE9eOzdxTPiMXKc8iDIUil1ser2gsLY/qV83jvbaraZstt6iZRzSUtecmLoUo
+/2pQBwfsGwWNbeaeNOQ=
+=PJHN
+-----END PGP SIGNATURE-----
