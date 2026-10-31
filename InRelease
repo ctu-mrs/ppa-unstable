@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Sat, 31 Oct 2026 17:17:39 +0000
+Label: unstable
+Origin: ctu-mrs
+MD5Sum:
+ 7ca12f79f8961ead3a89f3f8ba150592           305811 Packages
+ ecb199ed2d9b80a766ede9d1ae823a2c            58693 Packages.gz
+ 10f1f51296e6d24e49c4ee2221281545               70 Release
+SHA1:
+ 03b373370f340ae6edb6f3978a5cb758c2b8a6f3           305811 Packages
+ e58f57c9b21836b4fab289324021d4fd69ba8bdb            58693 Packages.gz
+ ab613d74241f7d8cfe88d40ba8a5fa2cd175196f               70 Release
+SHA256:
+ 017ad9bdd12173fc6c1ab2c811d4d0e5447c79b55c7a89b6915e60214a793813           305811 Packages
+ e77cc17a7a14dc9258312d4cdb8186298a513249bc5448fb8aab12879148dc12            58693 Packages.gz
+ 73edb0c8e2451360b6fa4a9c84fe0790ef5bf419dd48acc0610122c86cc06ecd               70 Release
+SHA512:
+ a19353e645c93fe6fec84888cfb2d54815df3332f10dd8ceb648a411e293c8414f0687ccfab8f2fc2618304c5393e6ff919eddfb7b257c0a7fe0465b0bf1d52d           305811 Packages
+ 57d4773fe410910de04e9e72b095c9c56ae5a021717e874a06e85cbcd0f45f355002508e77e43fcd404be2766bb74e8bcc9cd008990fce675719fe8c8233d8b8            58693 Packages.gz
+ 3c7ee0d8e700913e5355ef6f379b9f1ea1d4b77bb026071c594db0fc6f377ef08fd4a13cb682af9563cd544ef1cc179520ac8e5bee6f896e76cc895ec4632fcd               70 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJLBAEBCgA1FiEEb03deYxGy/GR9vy/sp02ABwZjREFAmrmIrMXHHRvbWFzLmJh
+Y2FAZmVsLmN2dXQuY3oACgkQsp02ABwZjREiRRAAn2A1uvqfdbf88gK4wRrxAE5H
+aaaAdJv6u3oLI7Iur6rv3/rTSUucRtQblUi28cWlrtHLbV47tnO1daPFb5QVdJxD
+/iOwLYevfhWK/rwAUWhArlpKMeoKj8cuoxp0Pxv0q5x9brf+HYHmFZ+opT3RblvT
+3megRhhvqOk5vnuAgBMCOLA1nrhLfXODESA2ibOVzYks/08tblU1IeC5D1H2zesx
+cZcDc5zfkHwnqJnZliV3nleVCdJN+6uTpC3Xj/Vj4lzoMl5e0cEK4Gmuz6g9/kP+
+SNhZorqDyf+wWp8K4vD+nLf0Sd3X+ADYKObWUnC/XxQuVH/8f/hiT40Th5oFQyE9
+uvmaJMpbUJtOCCyZDNBWzaqqhL1iWS0i9KhbnkPN97A7c2iq58l75ie7FW48vbXI
+e2bqeVzjEha12N43FIIU0i+z0UiiUhw4AQ8vvb+c++48WRyWBq+GcldpuTbUCBQw
+LJhoeuN/27UAW02NF6TJnLoMGJuYJIE27akFV9V2rHo+SSCmlRC6Q8LC9Tzl0D8G
+WbrgqVo48Yiyza3wWmg08vJh3jYLiDfc6zukFY+qFhHWXz/GIqz7qZ87NyHuJARK
+hmkLvNxJlM00dqHYm8YOsUEj7loaZVsbMto916TfoFey5aOzu8yAFSq/qTkfRqNl
+/wEONk6mU5MGRftZZbs=
+=89/F
+-----END PGP SIGNATURE-----
